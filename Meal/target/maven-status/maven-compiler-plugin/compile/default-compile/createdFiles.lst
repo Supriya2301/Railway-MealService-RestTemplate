@@ -1,0 +1,6 @@
+com\example\Meal\MealApplication.class
+com\example\Meal\Entity\Meal.class
+com\example\Meal\service\MealService.class
+com\example\Meal\controller\MealController.class
+com\example\Meal\exception\MealNotFoundException.class
+com\example\Meal\exception\MealWithPnrAlreadyExists.class
